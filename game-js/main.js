@@ -13,7 +13,7 @@ setInterval(() => {
 }, 1000); // This argument is the interval. Whatever is in the above function scope will execute every second, or 1000ms. This can be changed to any interval you want.
 
 // I would recommend setting a constant variable to the 'setInterval' function as the contents of the interval likely won't be changing over time, and you are able to use the developer console in the browser to execute the setInterval method once, and once only, if a variable is set to it. Below is an example of setting a variable to a setInterval method.
-const updateLoop = setInterval(() => {
+let updateLoop = setInterval(() => {
     // We can now execute the code inside this function scope exactly once using updateLoop() in the browser's developer console. This can be good for debugging etc.
 }, 1000);
 
