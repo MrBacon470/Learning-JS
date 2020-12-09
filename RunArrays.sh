@@ -1,2 +1,2 @@
-node main.js
+node arrays.js
 sleep 99999
