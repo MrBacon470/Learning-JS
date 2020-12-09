@@ -1,7 +1,7 @@
-// Authors: Jayman Matthews and MrBacon
+// Authors: Jayman Matthews, MrBacon and LinearAccelerator
 // Purpose: To learn JavaScript/Develop an idle game
 // Date Created: 9th December 2020
-// Data Modified: 8:42am 9th December 2020 by Jayman Matthews
+// Data Modified: 1:56pm CST 10th December 2020 by MrBacon
 // READ: Add yourself to the author list and keep this updated if you are taking part in this open source project.
 
 
@@ -25,4 +25,4 @@ const updateGame = () => {
 const updateLoop = setInterval(updateGame, 1000);
 // As you can see, we call the updateGame function in the first parameter of the 'setInterval' function. This makes the function cleaner and easier to read.
 
-// The actual project (might be an idle game, not sure), depends what MrBacon wants to do.
+// The actual project Idle Game Tutorial showcasing how you effectively use JS HTML and CSS to make a functional and good looking incremental.
