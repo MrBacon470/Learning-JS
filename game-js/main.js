@@ -1,4 +1,4 @@
-// Authors: Jayman Matthews, MrBacon and LinearAccelerator
+// Authors: Jayman Matthews, MrBacon and LinearAccelerator 
 // Purpose: To learn JavaScript/Develop an idle game
 // Date Created: 9th December 2020
 // Data Modified: 1:56pm CST 10th December 2020 by MrBacon
