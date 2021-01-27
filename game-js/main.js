@@ -21,7 +21,7 @@ let game = new Game({
     }
 });
 
-const ELEMENTS = new Array();
+const ELEMENTS = [];
 const MAX_TIME = 50; //ms
 const SECOND = 1000; //ms
 // The above two constants will be used for when we need to have a smaller interval of 50ms, for example. It will also calculate earnings when the tab isn't in focus using Date.now() etc.
