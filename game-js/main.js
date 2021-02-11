@@ -29,6 +29,7 @@ const SECOND = 1000; //ms
 const init = () => {
     ELEMENTS[0] = coin_info = document.getElementsByClassName('currency-info');
     ELEMENTS[1] = coin_button = document.getElementById('coin-clicker');
+    ELEMENTS[2] = coin_upg1 = document.getElementById('coin-upg-1');
     coin_button.onclick = () => game.coins.current++;
 }
 
